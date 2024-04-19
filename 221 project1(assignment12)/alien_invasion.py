@@ -8,7 +8,6 @@ from bullet import Bullet
 from alien import Alien
 
 
-
 class AlienInvasion:
     """Overall class to manage game assets and behavior."""
     def __init__(self):
